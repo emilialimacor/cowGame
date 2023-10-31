@@ -1,5 +1,5 @@
 
-# CowGame
+# 🎮 CowGame
 
 Jogo de estratégia onde o usuário deverá ajudar o personagem a atravessar a avenida e assim marcar pontos. Caso seja atingido por algum carro, os pontos são perdidos, e o jogo reiniciado.
 A aplicação foi realizada para estudo, utilizando lógica de programação e linguagem javascript.
